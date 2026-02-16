@@ -1,1 +1,18 @@
-
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "X98UN87BH7.com.codahead.dev.tiplinkonboarding",
+          "X98UN87BH7.com.codahead.tiplinkonboarding"
+        ],
+        "components": [
+          {
+            "/": "/oauth-callback",
+            "comment": "Plaid OAuth redirect"
+          }
+        ]
+      }
+    ]
+  }
+}
